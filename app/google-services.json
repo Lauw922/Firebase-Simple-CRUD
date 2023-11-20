@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125096374394",
+    "project_id": "projetdam1",
+    "storage_bucket": "projetdam1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125096374394:android:cd753119cbfd6303e10bc3",
+        "android_client_info": {
+          "package_name": "com.example.firebasesimplecrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtSOR9WktyELRTwoyB1BNkC3VuL5II7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
